@@ -1,0 +1,28 @@
+C:\Users\igorg\Desktop\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.exe
+C:\Users\igorg\Desktop\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.deps.json
+C:\Users\igorg\Desktop\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.runtimeconfig.json
+C:\Users\igorg\Desktop\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.dll
+C:\Users\igorg\Desktop\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.pdb
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.AssemblyInfo.cs
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.dll
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\refint\Primeiro Incremento.dll
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.pdb
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.genruntimeconfig.cache
+C:\Users\igorg\Desktop\Primeiro Incremento\obj\Debug\net8.0\ref\Primeiro Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.exe
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.deps.json
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.runtimeconfig.json
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\bin\Debug\net8.0\Primeiro Incremento.pdb
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.AssemblyInfo.cs
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\refint\Primeiro Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.pdb
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\Primeiro Incremento.genruntimeconfig.cache
+C:\Users\igorg\Desktop\Modelo Incremental\Primeiro Incremento\obj\Debug\net8.0\ref\Primeiro Incremento.dll

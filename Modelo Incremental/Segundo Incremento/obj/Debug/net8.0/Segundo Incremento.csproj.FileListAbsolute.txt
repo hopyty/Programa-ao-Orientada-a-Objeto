@@ -1,0 +1,28 @@
+C:\Users\igorg\Desktop\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.exe
+C:\Users\igorg\Desktop\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.deps.json
+C:\Users\igorg\Desktop\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.runtimeconfig.json
+C:\Users\igorg\Desktop\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.dll
+C:\Users\igorg\Desktop\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.pdb
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.AssemblyInfo.cs
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.dll
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\refint\Segundo Incremento.dll
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.pdb
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.genruntimeconfig.cache
+C:\Users\igorg\Desktop\Segundo Incremento\obj\Debug\net8.0\ref\Segundo Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.exe
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.deps.json
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.runtimeconfig.json
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\bin\Debug\net8.0\Segundo Incremento.pdb
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.AssemblyInfo.cs
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\refint\Segundo Incremento.dll
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.pdb
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\Segundo Incremento.genruntimeconfig.cache
+C:\Users\igorg\Desktop\Modelo Incremental\Segundo Incremento\obj\Debug\net8.0\ref\Segundo Incremento.dll

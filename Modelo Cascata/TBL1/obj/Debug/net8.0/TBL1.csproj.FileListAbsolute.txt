@@ -1,0 +1,28 @@
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\TBL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\TBL1.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\TBL1.AssemblyInfo.cs
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\TBL1.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\TBL1\bin\Debug\net8.0\TBL1.exe
+C:\Users\igorg\Desktop\TBL1\bin\Debug\net8.0\TBL1.deps.json
+C:\Users\igorg\Desktop\TBL1\bin\Debug\net8.0\TBL1.runtimeconfig.json
+C:\Users\igorg\Desktop\TBL1\bin\Debug\net8.0\TBL1.dll
+C:\Users\igorg\Desktop\TBL1\bin\Debug\net8.0\TBL1.pdb
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\TBL1.dll
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\refint\TBL1.dll
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\TBL1.pdb
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\TBL1.genruntimeconfig.cache
+C:\Users\igorg\Desktop\TBL1\obj\Debug\net8.0\ref\TBL1.dll
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\bin\Debug\net8.0\TBL1.exe
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\bin\Debug\net8.0\TBL1.deps.json
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\bin\Debug\net8.0\TBL1.runtimeconfig.json
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\bin\Debug\net8.0\TBL1.dll
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\bin\Debug\net8.0\TBL1.pdb
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\TBL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\TBL1.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\TBL1.AssemblyInfo.cs
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\TBL1.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\TBL1.dll
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\refint\TBL1.dll
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\TBL1.pdb
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\TBL1.genruntimeconfig.cache
+C:\Users\igorg\Desktop\Modelo Cascata\TBL1\obj\Debug\net8.0\ref\TBL1.dll
