@@ -1,3 +1,12 @@
+// ---------------------------------------------------------------
+// Criado por: Igor Lima
+// Exercícios Avaliativos – Faculdade ESAMC
+//
+// Exceção personalizada: EstoqueInsuficienteException
+// Objetivo: Lançada quando alguém tentar retirar mais produtos
+//           do que a quantidade disponível em estoque.
+// Demonstração: Classe Produto controla as retiradas.
+// ---------------------------------------------------------------
 ﻿using System;
 
 public class EstoqueInsuficienteException : Exception
@@ -59,3 +68,4 @@ class Program
         }
     }
 }
+
