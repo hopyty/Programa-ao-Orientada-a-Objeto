@@ -1,0 +1,14 @@
+C:\Users\igorg\Desktop\Questao 3\bin\Debug\net8.0\Questao 3.exe
+C:\Users\igorg\Desktop\Questao 3\bin\Debug\net8.0\Questao 3.deps.json
+C:\Users\igorg\Desktop\Questao 3\bin\Debug\net8.0\Questao 3.runtimeconfig.json
+C:\Users\igorg\Desktop\Questao 3\bin\Debug\net8.0\Questao 3.dll
+C:\Users\igorg\Desktop\Questao 3\bin\Debug\net8.0\Questao 3.pdb
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\Questao 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\Questao 3.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\Questao 3.AssemblyInfo.cs
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\Questao 3.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\Questao 3.dll
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\refint\Questao 3.dll
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\Questao 3.pdb
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\Questao 3.genruntimeconfig.cache
+C:\Users\igorg\Desktop\Questao 3\obj\Debug\net8.0\ref\Questao 3.dll
