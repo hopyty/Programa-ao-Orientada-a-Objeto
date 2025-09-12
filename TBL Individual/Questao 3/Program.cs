@@ -23,7 +23,7 @@ public class Sistema
 
     public void Login(string usuario, string senha)
     {
-        if (usuario == "admin" && senha == "123")
+        if (usuario == "igor" && senha == "a1b2c3")
         {
             autenticado = true;
             Console.WriteLine("\n✅ Login realizado com sucesso!");
@@ -69,4 +69,5 @@ class Program
         }
     }
 }
+
 
