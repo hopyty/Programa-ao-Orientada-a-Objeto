@@ -1,3 +1,12 @@
+// ---------------------------------------------------------------
+// Criado por: Igor Lima
+// Exercícios Avaliativos – Faculdade ESAMC
+//
+// Exceção personalizada: UsuarioNaoAutenticadoException
+// Objetivo: Lançada quando alguém tentar acessar um recurso
+//           sem estar autenticado no sistema.
+// Demonstração: Sistema exige login antes de liberar acesso.
+// ---------------------------------------------------------------
 ﻿using System;
 public class UsuarioNaoAutenticadoException : Exception
 {
@@ -60,3 +69,4 @@ class Program
         }
     }
 }
+
