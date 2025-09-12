@@ -1,3 +1,12 @@
+// ---------------------------------------------------------------
+// Criado por: Igor Lima
+// Exercícios Avaliativos – Faculdade ESAMC
+//
+// Exceção personalizada: IdadeInvalidaException
+// Objetivo: Lançada quando alguém tentar cadastrar uma pessoa
+//           com idade menor que 0 ou maior que 120.
+// Demonstração: Classe Pessoa valida a idade no cadastro.
+// ---------------------------------------------------------------
 ﻿using System;
 
 public class IdadeInvalidaException : Exception
@@ -58,3 +67,4 @@ class Program
         }
     }
 }
+
