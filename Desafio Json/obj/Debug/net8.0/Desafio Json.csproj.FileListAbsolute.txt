@@ -1,0 +1,17 @@
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.AssemblyInfoInputs.cache
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.AssemblyInfo.cs
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.csproj.CoreCompileInputs.cache
+C:\Users\igorg\Desktop\Desafio Json\bin\Debug\net8.0\Desafio Json.exe
+C:\Users\igorg\Desktop\Desafio Json\bin\Debug\net8.0\Desafio Json.deps.json
+C:\Users\igorg\Desktop\Desafio Json\bin\Debug\net8.0\Desafio Json.runtimeconfig.json
+C:\Users\igorg\Desktop\Desafio Json\bin\Debug\net8.0\Desafio Json.dll
+C:\Users\igorg\Desktop\Desafio Json\bin\Debug\net8.0\Desafio Json.pdb
+C:\Users\igorg\Desktop\Desafio Json\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.csproj.AssemblyReference.cache
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio .A9AABF74.Up2Date
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.dll
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\refint\Desafio Json.dll
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.pdb
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\Desafio Json.genruntimeconfig.cache
+C:\Users\igorg\Desktop\Desafio Json\obj\Debug\net8.0\ref\Desafio Json.dll
